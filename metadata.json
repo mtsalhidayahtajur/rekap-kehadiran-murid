@@ -1,0 +1,6 @@
+{
+  "name": "SIAP - MTs Al Hidayah Tajur",
+  "description": "Sistem Informasi Presensi & Rekapitulasi Kehadiran Siswa MTs Al Hidayah Tajur Tahun Ajaran 2026/2027. Fitur rekap bulanan, semester, tahunan, dasbor analitik tren kehadiran, dan ekspor otomatis ke PDF & Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
